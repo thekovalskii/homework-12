@@ -1,3 +1,1 @@
-# django homework #13
-
-🐸
+# 🐽
